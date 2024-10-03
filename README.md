@@ -18,3 +18,7 @@ This project is a C++ application that simulates a live stock market environment
   - Arrays, loops, functions, strings, random number generation.
   - File handling (read/write).
   - Data structures (2D arrays for stock data, parallel arrays for portfolios).
+
+## Note:
+- **Created on VS CODE Windows.**
+- **before running, delete Portfolio.txt File.**
