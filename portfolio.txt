@@ -1,0 +1,12 @@
+Portfolio owner: muhammad
+
+Stocks    Company Name                            Shares    Current   Previous  Gain/Loss High      Low       
+******************************************************************************************************************************************************
+UBL       United Bank Ltd.                        3         66.31     73.20     -20.69    112.99    66.31     
+SYS       Systems Ltd.                            1         418.67    428.51    -9.83     523.83    418.67    
+HBL       Habib Bank Ltd.                         4         60.24     54.55     22.75     71.07     54.55     
+ATRL      Attock Refinery Ltd.                    2         201.98    211.77    -19.57    211.77    151.88    
+PPL       Pakistan Petroleum Ltd.                 6         43.15     40.58     15.41     56.99     40.58     
+
+Total Gain/Loss: -11.93
+Current Balance: 18242.76
