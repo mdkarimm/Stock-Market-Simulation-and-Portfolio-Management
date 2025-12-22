@@ -76,10 +76,10 @@ Stock-Market-Simulation/
 ## Screenshots
 
 ### Main Stock Market Screen
-![Main Screen](Images/MainScreen.png)
+![Main Screen](MainScreen.png)
 
 ### Portfolio View
-![Portfolio](Images/portfolio.png)
+![Portfolio](portfolio.png)
 
 ## How to Use
 
