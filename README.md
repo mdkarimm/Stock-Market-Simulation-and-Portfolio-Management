@@ -156,7 +156,7 @@ The `portfolio.txt` file is automatically managed:
 - Saved automatically on exit
 - Contains your complete portfolio state
 
-**⚠️ Important**: The program now automatically manages `portfolio.txt`. You no longer need to delete it before running - it will load your existing portfolio or create a new one if needed.
+** Important**: The program now automatically manages `portfolio.txt`. You no longer need to delete it before running - it will load your existing portfolio or create a new one if needed.
 
 ## Troubleshooting
 
