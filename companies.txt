@@ -1,0 +1,38 @@
+Symbol,Company Name,Stock Price
+ATRL,Attock Refinery Ltd.,91.364917
+AVN,Avanceon Ltd. Consolidated,119.996432
+BAHL,Bank AL-Habib Ltd.,15.754802
+CHCC,Cherat Cement Company Ltd.,76.141218
+DAWH,Dawood Hercules Corporation Ltd.,95.669651
+DGKC,D. G. Khan Cement Company Ltd.,16.962266
+EFERT,Engro Fertilizers Ltd.,13.971249
+ENGRO,Engro Corporation Ltd.,119.972263
+FFBL,Fauji Fertilizer Bin Qasim Ltd.,9.713794
+FFC,Fauji Fertilizer Company Ltd.,41.833022
+GHNI,Ghandhara Industries Ltd.,504.959558
+HBL,Habib Bank Ltd.,57.297039
+HUBC,The Hub Power Company Ltd.,21.547337
+ICI,I.C.I Pakistan Ltd. Consolidated,315.654366
+IGIHL,IGI Holdings Ltd. Consolidated,87.432778
+INIL,International Industries Ltd.,52.050210
+ISL,International Steels Ltd.,26.662382
+KAPCO,Kot Addu Power Company Ltd.,70.026023
+LUCK,Lucky Cement Ltd. Consolidated,413.930944
+MARI,Mari Petroleum Company Ltd.,1449.659833
+MCB,MCB Bank Ltd.,194.539682
+MEBL,Meezan Bank Ltd.,202.390910
+MLCF,Maple Leaf Cement Factory Ltd.,23.157784
+MTL,Millat Tractors Ltd.,260.710913
+NML,Nishat Mills Ltd.,66.849894
+OGDC,Oil & Gas Development.,93.377513
+PAEL,Pak Elektron Ltd.,9.105455
+PIOC,Pioneer Cement Ltd.,83.307770
+PKGS,Packages Ltd. Consolidated,254.897235
+POL,Pakistan Oilfields Ltd.,306.990057
+PPL,Pakistan Petroleum Ltd.,29.004078
+PSO,Pakistan State Oil Company Ltd.,62.461914
+SEARL,The Searl Company Ltd.,21.959807
+SYS,Systems Ltd.,806.656090
+TRG,TRG Pakistan Ltd.,121.307129
+UBL,United Bank Ltd.,199.774928
+UNITY,Unity Foods Ltd.,1.573678
